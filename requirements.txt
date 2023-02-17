@@ -1,0 +1,5 @@
+tqdm
+matplotlib
+tensorboard
+progressbar
+scikit-learn
