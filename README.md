@@ -8,7 +8,7 @@ _Nature Machine Intelligence'23_
   <img src='figs/nvsa_mainfig.png' width="90%"/>
 </div>
 
-## [[Paper]](https://arxiv.org/pdf/2203.04571.pdf)
+## [[Paper]](https://www.nature.com/articles/s42256-023-00630-8)[[Preprint]](https://arxiv.org/abs/2203.04571)
 
 ## Requirements
 
@@ -52,6 +52,18 @@ Run the rule preprocessing script which you can get [here](https://github.com/We
 ## Run Model
 You can run the end-to-end training  on the RAVEN dataset for all constellation by specifying the 
 > `$ (myNVSAEnv)./run.sh `
+
+## Citation
+
+If you use the work released here for your research, please cite the preprint of this paper:
+```
+@article{hersche2022neuro,
+  title={A Neuro-vector-symbolic Architecture for Solving Raven's Progressive Matrices},
+  author={Hersche, Michael and Zeqiri, Mustafa and Benini, Luca and Sebastian, Abu and Rahimi, Abbas},
+  journal={Nat Mach Intell},
+  year={2023}
+}
+```
 
 
 ## License
